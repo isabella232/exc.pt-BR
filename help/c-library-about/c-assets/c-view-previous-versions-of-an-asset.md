@@ -4,8 +4,8 @@ seo-description: É possível exibir versões anteriores de um ativo na Bibliote
 seo-title: Exibir versões anteriores de um ativo
 solution: Experience Manager
 title: Exibir versões anteriores de um ativo
-uuid: 0 fef 9 a 0 f-ba 9 f -49 cf-a 49 c-b 7 f 2 f 8022 f 32
-translation-type: tm+mt
+uuid: 0fef9a0f-ba9f-49cf-a49c-b7f2f8022f32
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
@@ -18,7 +18,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 Para exibir versões anteriores de um ativo na Biblioteca da Experience Cloud:
 
 1. Selecione um ativo.
-1. Selecione o **[!UICONTROL menu Mais opções]** (reticências) ao lado do ativo.
+1. Selecione o menu **[!UICONTROL Mais opções]** (reticências) ao lado do ativo.
 
    ![](assets/library_asset_options.png)
 
