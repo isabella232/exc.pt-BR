@@ -4,8 +4,8 @@ seo-description: Importe arquivos da Creative Cloud para a Biblioteca da Adobe E
 seo-title: Importar arquivos da Creative Cloud para a Biblioteca da Adobe Experience Cloud
 solution: Experience Manager
 title: Importar arquivos da Creative Cloud para a Biblioteca da Adobe Experience Cloud
-uuid: 184632 df -7084-4 db 8-a 4 d 6-c 372 ab 9764 c 9
-translation-type: tm+mt
+uuid: 184632df-7084-4db8-a4d6-c372ab9764c9
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
@@ -31,12 +31,12 @@ Para importar arquivos da Creative Cloud para a Biblioteca da Experience Cloud:
 
    ![](assets/library_import_cc.png)
 
-1. Click **[!UICONTROL Next]**.
+1. Clique em **[!UICONTROL Próximo]**.
 1. Selecione um ou mais arquivos a serem importados.
 
    ![](assets/library_import_cc_assets_selected.png)
 
-1. Click **[!UICONTROL Next]**.
+1. Clique em **[!UICONTROL Próximo]**.
 1. Selecione a pasta na qual colocar os ativos.
 
    >[!NOTE]
@@ -45,5 +45,5 @@ Para importar arquivos da Creative Cloud para a Biblioteca da Experience Cloud:
 
    ![](assets/library_import_cc_folder_select.png)
 
-1. Click **[!UICONTROL Import]**.
+1. Clique em **[!UICONTROL Importar]**.
 
