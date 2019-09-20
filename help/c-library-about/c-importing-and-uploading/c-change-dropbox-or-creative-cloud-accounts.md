@@ -1,23 +1,23 @@
 ---
-description: Alterne para uma conta do Dropbox ou Creative Cloud diferente para adicionar conteúdo à Biblioteca da Adobe Experience Cloud.
-seo-description: Alterne para uma conta do Dropbox ou Creative Cloud diferente para adicionar conteúdo à Biblioteca da Adobe Experience Cloud.
-seo-title: Alterar contas do Dropbox ou Creative Cloud
+description: Alterne para uma conta diferente do Dropbox ou da Creative Cloud para adicionar conteúdo à Biblioteca da Adobe Experience Cloud.
+seo-description: Alterne para uma conta diferente do Dropbox ou da Creative Cloud para adicionar conteúdo à Biblioteca da Adobe Experience Cloud.
+seo-title: Alterar contas do Dropbox ou da Creative Cloud
 solution: Experience Manager
-title: Alterar contas do Dropbox ou Creative Cloud
-uuid: bc 8 c 9 cce-a 543-42 cc -81 cd-b 9995 f 26 c 8 d 4
-translation-type: tm+mt
+title: Alterar contas do Dropbox ou da Creative Cloud
+uuid: bc8c9cce-a543-42cc-81cd-b9995f26c8d4
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Alterar contas do Dropbox ou Creative Cloud{#change-dropbox-or-creative-cloud-accounts}
+# Alterar contas do Dropbox ou da Creative Cloud{#change-dropbox-or-creative-cloud-accounts}
 
-Alterne para uma conta do Dropbox ou Creative Cloud diferente para adicionar conteúdo à Biblioteca da Adobe Experience Cloud.
+Alterne para uma conta diferente do Dropbox ou da Creative Cloud para adicionar conteúdo à Biblioteca da Adobe Experience Cloud.
 
-Depois de fazer logon em uma conta do Dropbox ou Creative Cloud, você continuará conectado a menos que você faça logoff ou alterne as contas.
+Depois de fazer logon em uma conta do Dropbox ou da Creative Cloud, você continuará conectado a menos que você faça logoff ou alterne as contas.
 
-Para alternar para uma conta do Dropbox ou Creative Cloud diferente:
+Para alternar para uma conta diferente do Dropbox ou da Creative Cloud:
 
 1. Selecione **[!UICONTROL Novo]** &gt; **[!UICONTROL Importar]**.
 
