@@ -1,23 +1,23 @@
 ---
-description: Você pode lixar um ativo na Biblioteca da Adobe Experience Cloud para removê-lo da Biblioteca.
-seo-description: Você pode lixar um ativo na Biblioteca da Adobe Experience Cloud para removê-lo da Biblioteca.
-seo-title: Lixeira de um ativo
+description: É possível enviar um ativo para a lixeira na Biblioteca da Adobe Experience Cloud para removê-lo da Biblioteca.
+seo-description: É possível enviar um ativo para a lixeira na Biblioteca da Adobe Experience Cloud para removê-lo da Biblioteca.
+seo-title: Enviar um ativo para a lixeira
 solution: Experience Manager
-title: Lixeira de um ativo
-uuid: 7 c 472517-9 d 58-4 b 8 a -9 f 71-6 b 651901 a 44 b
-translation-type: tm+mt
+title: Enviar um ativo para a lixeira
+uuid: 7c472517-9d58-4b8a-9f71-6b651901a44b
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Lixeira de um ativo{#trash-an-asset}
+# Enviar um ativo para a lixeira{#trash-an-asset}
 
-Você pode lixar um ativo na Biblioteca da Adobe Experience Cloud para removê-lo da Biblioteca.
+É possível enviar um ativo para a lixeira na Biblioteca da Adobe Experience Cloud para removê-lo da Biblioteca.
 
-Para lixar um ativo na Biblioteca da Experience Cloud:
+Para enviar um ativo para a lixeira na Biblioteca da Experience Cloud:
 
-1. Clique em um ou mais ativos para lixeira. ![](assets/import_options_mulit_select_trash.png)
+1. Clique em um ou mais ativos para enviar para a lixeira. ![](assets/import_options_mulit_select_trash.png)
 
-1. Clique no **[!UICONTROL ícone Lixeira]** na parte superior da página.
+1. Clique no ícone **[!UICONTROL Lixeira]** na parte superior da página.
 
