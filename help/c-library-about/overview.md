@@ -3,17 +3,16 @@ description: A Biblioteca da Adobe Experience Cloud é uma experiência universa
 title: Biblioteca da Adobe Experience Cloud
 uuid: 507e28c7-d8b7-42ac-82d4-caf7c16bdd3b
 translation-type: tm+mt
-source-git-commit: 12f34b6ab4e0e95356e1824af9bf37561e19b2b6
+source-git-commit: 667da5bf636cb4e005ecf84b33e9f3baf46aa54f
 
 ---
 
 
 # Biblioteca da Adobe Experience Cloud{#adobe-experience-cloud-library}
 
-A Biblioteca da Adobe Experience Cloud é uma experiência universal e centralizada para armazenar, localizar e selecionar ativos em soluções da Adobe Experience Cloud.
+A partir de março de 2020, a Adobe substituiu oficialmente a Biblioteca da Adobe Experience Cloud. Não está mais disponível para acesso.
 
-## Tópicos populares
+**Recursos relacionados**
 
-* [Importar conteúdo](/help/c-library-about/c-importing-and-uploading/c-importing-and-uploading.md)
-* Localizar conteúdo com [pesquisa](/help/c-library-about/c-assets/c-search-for-assets.md) ou [filtragem](/help/c-library-about/c-assets/c-filter-assets.md)
-* [Consulte informações sobre um ativo](/help/c-library-about/c-assets/c-view-detailed-information-for-an-asset.md)
+* [Ativos da Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/assets/experience-cloud-assets.html)
+* [AEM Assets](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/home.html)
