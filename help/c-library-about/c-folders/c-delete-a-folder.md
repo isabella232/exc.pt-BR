@@ -5,8 +5,11 @@ seo-title: Enviar uma pasta para a lixeira
 solution: Experience Manager
 title: Enviar uma pasta para a lixeira
 uuid: 0e1c5ef2-188e-4012-92db-900b9d5732cf
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '74'
+ht-degree: 100%
 
 ---
 
