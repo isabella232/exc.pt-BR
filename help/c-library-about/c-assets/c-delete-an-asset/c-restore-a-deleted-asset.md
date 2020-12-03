@@ -5,8 +5,11 @@ seo-title: Restaurar um ativo enviado para a lixeira
 solution: Experience Manager
 title: Restaurar um ativo enviado para a lixeira
 uuid: 5cf60e36-99fb-4335-af9d-2224342c382b
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +27,7 @@ Restaurar um ativo enviado para a lixeira antes de 60 dias:
    ![](assets/library_general_trashed_items.png)
 
 1. Clique em um ou mais itens para restaurar.
-1. Clique em **[!UICONTROL Mais informações &gt; Restaurar]**.
+1. Clique em **[!UICONTROL Mais informações > Restaurar]**.
 
    ![](assets/library_restore_perm_delete.png)
 
