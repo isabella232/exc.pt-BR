@@ -5,8 +5,11 @@ seo-title: Criar uma pasta
 solution: Experience Manager
 title: Criar uma pasta
 uuid: 6651be0e-262a-4f9c-b0c6-adec3a4e2178
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 95%
 
 ---
 
@@ -17,7 +20,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 Para criar uma pasta na Biblioteca da Experience Cloud:
 
-1. Selecione **[!UICONTROL Nova]** &gt; **[!UICONTROL Pasta]**.
+1. Select **[!UICONTROL New]** > **[!UICONTROL Folder]**.
 
    ![](assets/library_new_folder_upload.png)
 
