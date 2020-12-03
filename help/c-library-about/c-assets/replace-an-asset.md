@@ -5,8 +5,11 @@ seo-title: Substituir um ativo
 solution: Experience Manager
 title: Substituir um ativo
 uuid: c83a3b28-8b9f-4457-affa-948e71cbf784
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '77'
+ht-degree: 100%
 
 ---
 
