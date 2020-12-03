@@ -5,8 +5,11 @@ seo-title: Alterar contas do Dropbox ou da Creative Cloud
 solution: Experience Manager
 title: Alterar contas do Dropbox ou da Creative Cloud
 uuid: bc8c9cce-a543-42cc-81cd-b9995f26c8d4
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '131'
+ht-degree: 97%
 
 ---
 
@@ -19,7 +22,7 @@ Depois de fazer logon em uma conta do Dropbox ou da Creative Cloud, você contin
 
 Para alternar para uma conta diferente do Dropbox ou da Creative Cloud:
 
-1. Selecione **[!UICONTROL Novo]** &gt; **[!UICONTROL Importar]**.
+1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
 
    ![](assets/library_new_folder_upload.png)
 
