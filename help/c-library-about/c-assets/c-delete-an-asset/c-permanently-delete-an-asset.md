@@ -5,8 +5,11 @@ seo-title: Excluir permanentemente um ativo enviado para a lixeira
 solution: Experience Manager
 title: Excluir permanentemente um ativo enviado para a lixeira
 uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +27,7 @@ Ao enviar um item para a lixeira, ele fica na área Itens enviados para a lixeir
    ![](assets/library_general_trashed_items.png)
 
 1. Clique em um ou mais itens para excluir permanentemente.
-1. Clique em **[!UICONTROL Mais informações &gt; Excluir permanentemente]**.
+1. Clique em **[!UICONTROL Mais informações > Excluir permanentemente]**.
 
    ![](assets/library_restore_perm_delete.png)
 
