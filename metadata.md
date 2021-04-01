@@ -1,17 +1,20 @@
 ---
-cloud: experience-cloud
-product: Aprendizagem e suporte
+cloud: Experience Cloud
+product: Learn & Support
 solution-title: Serviços principais da Experience Cloud
 solution-hub-url: https://helpx.adobe.com/br/support/experience-cloud/core-services.html
 solution-icon: help/assets/experience-cloud-logo-24.png
 getting-started-title: Introdução
 getting-started-url: https://helpx.adobe.com/br/experience-cloud-core-services/get-started.html
 tutorials-title: Campaign Standard
-tutorials-url: https://helpx.adobe.com/br/support/experience-cloud/core-services.html
-git-repo: https://github.com/AdobeDocs/exc.en
+tutorials-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
+git-repo: https://git.corp.adobe.com/AdobeDocs/exc.pt-BR
 index: false
 translation-type: tm+mt
-source-git-commit: 92bafe6fbb79182c3cc9fad2f95e13b56eb115e9
+source-git-commit: ec443c8831a15c9c0274d1fcad8e83e920f43f08
+workflow-type: tm+mt
+source-wordcount: '179'
+ht-degree: 100%
 
 ---
 
@@ -20,7 +23,7 @@ source-git-commit: 92bafe6fbb79182c3cc9fad2f95e13b56eb115e9
 
 # Metadados para uso interno
 
-O arquivo metadata. md inclui metadados de nível de reposição transmitidos para os arquivos TOC. md do guia do usuário na reposição. Se desejar alterar o conteúdo metadata. md para qualquer guia do usuário, faça isso em qualquer arquivo TOC. md.
+O arquivo metadata.md inclui metadados de nível de repositório transmitidos para os arquivos TOC.md do guia do usuário no repositório. Se desejar alterar o conteúdo metadata.md para qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
 
 | metadata | o que faz |
 |--- |--- |
@@ -32,12 +35,12 @@ O arquivo metadata. md inclui metadados de nível de reposição transmitidos pa
 | tutorials-title | Raramente usado quando os tutoriais não são apropriados |
 | tutorials-url | Link para tutoriais em vídeo—tutoriais helpx ou tutoriais do KT |
 | mini-toc-levels | Determina o número de níveis de cabeçalho que aparecem no painel à direita. o padrão é 2 |
-| git-repo | Especifica o local do repo de colaboração. Use o espelhamento github.com para documentos lidos pelo público |
+| git-repo | Especifica o local do repositório de colaboração. Use o espelhamento github.com para documentos lidos pelo público |
 | índice | definir index=no para inicialização suave |
 
 No arquivo TOC.md
 
-| metadata | o que faz |
+| metadados | o que faz |
 |--- |--- |
 | user-guide-title | Usado no cabeçalho do artigo como link |
 | user-guide-url | Abre a página helpx hub |
