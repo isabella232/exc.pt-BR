@@ -1,14 +1,13 @@
 ---
 description: Faça upload de ativos do seu dispositivo para gerenciá-los na Biblioteca da Adobe Experience Cloud.
-seo-description: Faça upload de ativos do seu dispositivo para gerenciá-los na Biblioteca da Adobe Experience Cloud.
-seo-title: Fazer upload de ativo do dispositivo
+seo-description: Upload assets from your device to manage them in the Adobe Experience Cloud Library.
+seo-title: Upload Asset from Device
 solution: Experience Manager
 title: Fazer upload de ativo do dispositivo
 uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '77'
 ht-degree: 96%
 
 ---
@@ -20,7 +19,7 @@ Faça upload de ativos do seu dispositivo para gerenciá-los na Biblioteca da Ad
 
 Para fazer upload de ativos do seu dispositivo para a Biblioteca da Experience Cloud:
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Upload]**.
+1. Selecionar **[!UICONTROL Novo]** > **[!UICONTROL Carregar]**.
 
    ![](assets/library_new_folder_upload.png)
 

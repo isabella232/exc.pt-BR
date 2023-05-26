@@ -1,6 +1,8 @@
 ---
 source-git-commit: c35fc9c445566543cbf621c079d48ebc71fdafe7
-translation-type: ht
+workflow-type: tm+mt
+source-wordcount: '281'
+ht-degree: 100%
 
 ---
 # Contribuição
@@ -32,7 +34,7 @@ você pode ir em frente!
 ## Revisões do código
 
 Todos os envios devem ser recebidos na forma de solicitações de pull e devem ser revisados
-pelos responsáveis pelo projeto. Leia a [documentação de solicitação de pull do GitHub](https://help.github.com/articles/about-pull-requests/)
+pelos responsáveis pelo projeto. Leia a [documentação de solicitação de pull do GitHub](https://help.github.com/pt/articles/about-pull-requests/)
 para obter mais informações sobre como enviar solicitações de pull.
 
 <!--
